@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+Hi class!
+
+I'm Calvin and I am a college student at Cal Poly.
+I am currently a Junior learning Python. 
